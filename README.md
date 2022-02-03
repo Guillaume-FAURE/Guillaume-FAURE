@@ -14,6 +14,7 @@
 - 🦀 I'm interested in the Rust language which seems really promising for the future of the low-level languages
 
 <h2>Skills</h2><br/>
+<div>
   <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2962E9?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JAVASCRIPT-EFD81D?style=for-the-badge&logo=javascript&logoColor=white">
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/GITHUB-94404d?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/LINUX-666666?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/FIGMA-f76e5f?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
 <!--
 **Guillaume-FAURE/Guillaume-FAURE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
