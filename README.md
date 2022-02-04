@@ -20,12 +20,17 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-EFD81D?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TYPESCRIPT-2E74C0?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/REACT-30afd1?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/NODE_JS-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/EXPRESS-5E5E5E?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/DOCKER-0997e5?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GITHUB-94404d?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/LINUX-666666?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/FIGMA-f76e5f?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/ARCHLINUX-1200bf?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/AWESOMEWM-919191?style=for-the-badge&logo=awesomewm&logoColor=white">
+  <img src="https://img.shields.io/badge/ZSH-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=black">
+  <img src="https://img.shields.io/badge/VSCODE-2E74C0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 
 <!--
