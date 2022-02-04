@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/ZSH-FFFFFF?style=for-the-badge&logo=gnubash&logoColor=black">
   <img src="https://img.shields.io/badge/VSCODE-2E74C0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/VIM-13660F?style=for-the-badge&logo=vim&logoColor=white">
 </div>
 
 <!--
