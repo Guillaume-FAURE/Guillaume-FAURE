@@ -3,7 +3,7 @@
 <h3 align="center"> My Github Stats<h3><br/>
 <div style="display:flex;" align="center">
   <img align=top src="https://github-readme-stats.vercel.app/api?username=Guillaume-FAURE&theme=dracula&show_icons=true"  >  
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-FAURE" >
+  <!--<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-FAURE" >-->
  </div>  
  
  
